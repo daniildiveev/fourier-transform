@@ -1,0 +1,2 @@
+class WaveNotGeneratedException(Exception):
+    pass
