@@ -1,4 +1,4 @@
-from utils.complex_number import ComplexNumber
+from utils.numeric.complex_number import ComplexNumber
 
 
 def test_repr_and_str():
